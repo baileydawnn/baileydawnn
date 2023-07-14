@@ -17,6 +17,3 @@ I don't have much to show yet, but I'm working on new projects all the time! Che
 - HTML/CSS
 
 I am also using ArcGIS Pro to create maps and visualizations. (Portfolio WIP)
-
-# Links
-Check out my [LinkedIn](www.linkedin.com/in/baileyraymond28)!
