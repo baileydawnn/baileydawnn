@@ -19,7 +19,4 @@ I don't have much to show yet, but I'm working on new projects all the time! Che
 I am also using ArcGIS Pro to create maps and visualizations. (Portfolio WIP)
 
 # Links
-Check out my [LinkedIn!](www.linkedin.com/in/baileyraymond28). 
-
-# Contact
-Feel free to shoot me an email at braymond@fiu.edu. 
+Check out my [LinkedIn](www.linkedin.com/in/baileyraymond28)!
